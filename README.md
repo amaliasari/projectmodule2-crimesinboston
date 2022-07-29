@@ -11,9 +11,11 @@ JC Data Science and Machine Learning
 Analisa dilakukan dengan menggunakan Jupyter Notebok pada VS Code.
 
 
+
 ## Latar Belakang
 
 Data pelanggaran hukum disediakan oleh Boston Police Department (Boston PD) dengan tujuan untuk mendokumentasikan rincian pelanggaran hukum yang direspon oleh Boston PD. Dataset ini berisi catatan dari sistem baru pelaporan kejadian kejahatan yang lebih difokuskan untuk meng*capture* jenis kejadian/insiden serta kapan dan di mana terjadinya. Catatan dalam sistem baru ini dimulai pada Juni 2015.
+
 
 
 ## Rumusan Masalah
@@ -21,6 +23,7 @@ Data pelanggaran hukum disediakan oleh Boston Police Department (Boston PD) deng
 Keamanan dan keselamatan adalah perhatian utama setiap orang sehingga penting untuk mengetahui keadaan keamanan sekitar. Boston PD dan masyarakat Boston berkerja sama dengan saling membantu untuk menciptakan kualitas hidup yang lebih baik di daerahnya. Untuk itu perlu dilakukan analisa untuk mengetahui **bagaimana *trend* pelanggaran hukum di Boston**. 
 
 Analisa ini dapat membantu masyarakat Boston untuk menyadari dan memahami akan adanya pelanggaran hukum yang terjadi di wilayah tempat tinggal mereka sehingga mereka bisa lebih waspada. Selain itu, analisis ini dapat membantu kepolisian untuk meningkatkan pelayanan sehingga tingkat pelanggaran hukum di Boston bisa ditekan.
+
 
 
 ## Analisa yang Dilakukan
@@ -35,17 +38,20 @@ Analisa ini dapat membantu masyarakat Boston untuk menyadari dan memahami akan a
 
 <h3> Kesimpulan dan rekomendasi </h3>
 
+ 
 
 ## Tujuan Analisis
 
 Analisis ini bisa digunakan untuk membantu banyak pihak, diantaranya sebagai berikut.
 
+ 
 <h3> Kepolisian </h3>
 
 <li> Analisis ini memberikan informasi wilayah mana saja yang membutuhkan perhatian lebih.
 <li> Membantu Boston PD men-*deploy* atau mendistiibusikan petugas kepolisian dengan tepat sesuai dengan tingkat pelanggaran hukum yang terjadi pada wilayah terkait.
 <li> Dapat mengedukasi masyarakat tentang kriminalitas dan pelanggaran hukum.
 
+ 
 
 <h3> Masyarakat setempat </h3>
 
@@ -54,6 +60,7 @@ Analisis ini bisa digunakan untuk membantu banyak pihak, diantaranya sebagai ber
 <li> Masyarakat dapat menghindari tempat-tempat yang rawan.
 
 
+ 
 <h3> Lembaga-lembaga terkait </h3>
 
 Lembaga-lembaga terkait yang dimaksud seperti *fire department*, *paramedics*, dan rumah sakit agar:
@@ -63,11 +70,13 @@ Lembaga-lembaga terkait yang dimaksud seperti *fire department*, *paramedics*, d
 <li> dapat mendistribusikan sumber daya manusia dan peralatan dengan tepat
 
 
+  
 <h3> Turis dan pelajar pendatang </h3>
 
 <li> Bijak dalam memilih tempat baru yang ingin dikunjungi
 <li> Selalu waspada di wilayah yang bukan tempat tinggalnya
 
+ 
 
-Visualisasi dari analisis dapat dilihat di Tableau.
+Visualisasi dari analisis dapat dilihat di Tableau. <br>
 https://public.tableau.com/app/profile/sari.amalia/viz/CrimesinBostonAnalysis/Dashboard1?publish=yes
